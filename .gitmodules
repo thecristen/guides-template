@@ -1,0 +1,3 @@
+[submodule "meet-wcag2"]
+	path = meet-wcag2
+	url = https://github.com/thecristen/wai-wcag-quickref.git

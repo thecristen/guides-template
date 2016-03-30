@@ -33,6 +33,9 @@ expand_nav: true
 navigation:
 - text: Introduction
   internal: true
+- text: WCAG
+  url: meet-wcag2/
+  internal: true
 - text: Add a new page
   url: add-a-new-page/
   internal: true
